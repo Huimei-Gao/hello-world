@@ -1,2 +1,4 @@
 # hello-world
-This is a repository for CS50 Seminar-- Game Development
+Hi Everyone,
+
+I'm May from China. I'm really excited to learn about game development.
